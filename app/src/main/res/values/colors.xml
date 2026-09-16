@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="careere_burgundy">#72232B</color>
+    <color name="careere_burgundy_dark">#5C1B22</color>
+    <color name="careere_near_black">#1F1F1F</color>
+    <color name="careere_warm_ivory">#FAF7F2</color>
+    <color name="careere_muted_rose">#C9A3A6</color>
+    <color name="careere_warm_stone">#D8D1C7</color>
+    <color name="black">#1F1F1F</color>
+    <color name="white">#FFFFFF</color>
+</resources>

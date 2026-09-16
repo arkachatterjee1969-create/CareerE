@@ -1,0 +1,6 @@
+{
+  "name": "Careeré",
+  "description": "World-class brand identity & free professional resume/CV builder with 50+ templates and PDF export.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
